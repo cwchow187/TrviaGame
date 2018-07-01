@@ -1,0 +1,17 @@
+#header{
+	text-align: center;
+}
+
+body{
+	background: url("https://i.pinimg.com/736x/42/d0/05/42d005d975380e6646bac9bf76f0afde--nfc-west-forty-niners.jpg");
+	background-size: 100%;
+	
+}
+
+
+#timer{
+	color: red;
+}
+h4{
+	text: bold;
+}
